@@ -1,13 +1,13 @@
-## Selected projects in data science, machine learning and NLP
+## Selected projects in data science, data analytics, and data engineering
 
 ---
 
-### Deep NLP for hate speech detection
+### Scraping and Comparing IMDb Top 250 Movies (2004 vs Now)
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+This project analyzes how the IMDb Top 250 movies list has changed between 2004 and now by scraping data from both the archived and current IMDb websites using Python. It compares which films have remained on the list over time, calculates rating differences, and visualizes trends through various plots.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+![](https://img.shields.io/badge/Python-white?logo=Python) 
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View code on Github](https://github.com/BlakeSimpson/IMDB-Top-250)
 
 ---
