@@ -1,6 +1,13 @@
 ## Selected projects in data science and data analytics
 
 ---
+### Retail Sales Analytics Dashboard in Excel
+
+An interactive Excel dashboard for analyzing retail sales performance, featuring dynamic visualizations, KPIs, and data-driven insights.
+
+![](https://img.shields.io/badge/Excel-white?logo=googlesheets)
+
+[View code on Github](https://github.com/BlakeSimpson/Retail-Sales-Excel-Dashboard)
 
 ### Scraping and Comparing IMDb Top 250 Movies (2004 vs Now)
 
