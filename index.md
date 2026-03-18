@@ -3,6 +3,8 @@
 ---
 ### Retail Sales Analytics Dashboard in Excel
 
+![Retail Sales Dashboard](images/Sales-Dashboard.png)
+
 An interactive Excel dashboard for analyzing retail sales performance, featuring dynamic visualizations, KPIs, and data-driven insights.
 
 ![](https://img.shields.io/badge/Excel-white?logo=googlesheets)
